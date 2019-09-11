@@ -1,1 +1,5 @@
--Basketball-School-Science-Math-Shoes
+- Basketball
+- School
+- Math
+- Science
+- Shoes
